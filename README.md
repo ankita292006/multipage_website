@@ -89,16 +89,12 @@ project-folder/
 6. Your site will be live at:
 
 ```
-https://your-username.github.io/your-repo-name/
+ https://ankita292006.github.io/multipage_website/
 ```
 
 ---
 
-## 📸 Screenshots
 
-*Add screenshots of Home, About, and Contact pages here (optional)*
-
----
 
 ## 👩‍💻 Author
 
