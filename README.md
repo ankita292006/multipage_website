@@ -50,7 +50,7 @@ project-folder/
 1. Download or clone the repository
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+  https://github.com/ankita292006/multipage_website
    ```
 
 2. Open the project folder
