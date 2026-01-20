@@ -48,9 +48,9 @@ project-folder/
 ## 🚀 How to Run the Project
 
 1. Download or clone the repository
-
+https://github.com/ankita292006/multipage_website
    ```bash
-  https://github.com/ankita292006/multipage_website
+  
    ```
 
 2. Open the project folder
